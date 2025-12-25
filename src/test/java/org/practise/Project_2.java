@@ -127,13 +127,11 @@ public class Project_2 extends Helper {
 		int size = elements.size();
 		System.out.println(size);
 	}
-
 	@Test
 	private void Method_TWO() {
 		System.out.println("method Two");
 		
 	}
-
 	@Test
 	private void Method_THREE() {
 		System.out.println("method Three");
