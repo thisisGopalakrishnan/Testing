@@ -6,11 +6,12 @@
     <classes>
       <class name="org.testng.Project2"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test 
+  
   <test  name="firefox">
   <parameter name="browser" value="firefox"></parameter>
     <classes>
       <class name="org.testng.Project2"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!Test -->
 </suite> <!-- Suite -->
