@@ -4,7 +4,7 @@
   <test  name="chrome">
   <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="org.testng.Project2"/>
+      <class name="org.practise.Project_2"/>
     </classes>
   </test> <!-- Test 
   
